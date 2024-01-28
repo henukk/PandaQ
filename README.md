@@ -2,11 +2,11 @@
 Welcome to the PandaQ project, a compact and innovative SQL interpreter coded by Héctor Núñez Carpio as a Computer Science grade project. Utilizing the power of Python and integrating modern libraries, PandaQ offers to manage basic SQL queries. This document serves as your guide to exploring its features, setup, and usage.
 
 ## Contents table
-- [Key Features](#KeyFeatures)
-- [Project Structure](#projectstructure)
-- [Setup and Execution](#setupandexecution)
-- [Usage Notes](#usagenotes)
-- [Test Cases](#testCases)
+- [Key Features](#key-features)
+- [Project Structure](#project-structure)
+- [Setup and Execution](#setup-and-execution)
+- [Usage Notes](#usage-notes)
+- [Test Cases](#test-cases)
 - [References](#references)
 - [License](#license)
 
