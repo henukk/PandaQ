@@ -6,7 +6,7 @@ Welcome to the PandaQ project, a compact and innovative SQL interpreter coded by
 - [Project Structure](#projectstructure)
 - [Setup and Execution](#setupandexecution)
 - [Usage Notes](#usagenotes)
-- [Test Cases](#TestCases)
+- [Test Cases](#testCases)
 - [References](#references)
 - [License](#license)
 
